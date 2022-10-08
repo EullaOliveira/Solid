@@ -1,0 +1,574 @@
+/* Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+
+/* Parte de cima */
+
+.fundo {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.logo {
+    position: absolute;
+    top: 4%;
+    left: 9.9%;
+}
+
+
+/* Seção 1 */
+
+.secao1-container h1 {
+    position: absolute;
+    top: 33%;
+    left: 9.9%;
+    font-size: 45px;
+}
+
+.secao1-container p {
+    position: absolute;
+    top: 53%;
+    left: 9.9%;
+    font-size: 20px;
+    color: #84858d;
+}
+
+.botao-1 {
+    position: absolute;
+    top: 67%;
+    left: 9.9%;
+    border: none;
+    border-radius: 3px;
+    background-color: #0b83f3;
+    color: #FFF;
+    height: 45px;
+    width: 175px;
+}
+
+.botao-2 {
+    position: absolute;
+    top: 67%;
+    left: 25%;
+    border: none;
+    border-radius: 3px;
+    background-color: #242424;
+    color: #FFF;
+    height: 45px;
+    width: 175px;
+}
+
+.botao-1:hover {
+    background-color: #242424;
+    border: solid #FFF 2px;
+    cursor: pointer;
+}
+
+
+.botao-2:hover {
+    background-color: #0b83f3;
+    border: solid #FFF 2px;
+    cursor: pointer;
+}
+
+/* Seção 2 */
+
+.fundo-2 {
+    position: absolute;
+    top: 99.9%;
+    height: 130%;
+    width: 100%;
+}
+
+.bp1 img {
+    position: absolute;
+    top: 120%;
+    left: 15%;
+}
+
+.bp1 h4 {
+    position: absolute;
+    top: 140%;
+    left: 13%;
+    font-size: 23px;
+    color: #FFF;
+}
+
+.bp1 p {
+    position: absolute;
+    top: 147%;
+    left: 9%;
+    color: #84858d;
+}
+
+.bp2 img {
+    position: absolute;
+    top: 120%;
+    left: 45%;
+}
+
+.bp2 h4 {
+    position: absolute;
+    top: 140%;
+    left: 43%;
+    color: #FFF;
+    font-size: 23px;
+}
+
+.bp2 p {
+    position: absolute;
+    top: 147%;
+    left: 39%;
+    color: #84858d;
+}
+
+.bp3 img {
+    position: absolute;
+    top: 120%;
+    left: 75%;
+}
+
+.bp3 h4 {
+    position: absolute;
+    top: 140%;
+    left: 73%;
+    color: #FFF;
+    font-size: 23px;
+}
+
+.bp3 p {
+    position: absolute;
+    top: 147%;
+    left: 69%;
+    color: #84858d;
+}
+
+.bp4 img {
+    position: absolute;
+    top: 173%;
+    left: 15%;
+}
+
+.bp4 h4 {
+    position: absolute;
+    top: 193%;
+    left: 13%;
+    font-size: 23px;
+    color: #FFF;
+}
+
+.bp4 p {
+    position: absolute;
+    top: 200%;
+    left: 9%;
+    color: #84858d;
+}
+
+.bp5 img {
+    position: absolute;
+    top: 173%;
+    left: 45%;
+}
+
+.bp5 h4 {
+    position: absolute;
+    top: 193%;
+    left: 43%;
+    font-size: 23px;
+    color: #FFF;
+}
+
+.bp5 p {
+    position: absolute;
+    top: 200%;
+    left: 39%;
+    color: #6f8b94;
+}
+
+.bp6 img {
+    position: absolute;
+    top: 173%;
+    left: 75%;
+}
+
+.bp6 h4 {
+    position: absolute;
+    top: 193%;
+    left: 73%;
+    font-size: 23px;
+    color: #FFF;
+}
+
+.bp6 p {
+    position: absolute;
+    top: 200%;
+    left: 69%;
+    color: #84858d;
+}
+
+/* Spans da segunda seção */
+
+.sp1 {
+    position: relative;
+    top: 4px;
+    left: 8px;
+}
+
+.sp2 {
+    position: relative;
+    top: 8px;
+    left: 9px;
+}
+
+.sp3 {
+    position: relative;
+    top: 12px;
+    left: 20px;
+}
+
+.sp4 {
+    position: relative;
+    top: 16px;
+    left: 8px;
+}
+
+.sp5 {
+    position: relative;
+    top: 20px;
+    left: 110px;
+}
+
+/* Seção 3 */
+
+.fundo-3 {
+    position: absolute;
+    top: 289%;
+}
+
+.fundo-2-secao3 {
+    position: absolute;
+    top: 229%;
+    height: 375px;
+    width: 100%;
+}
+
+.linha {
+    position: absolute;
+    top: 240%;
+    left: 8%;
+    height: 1px;
+    width: 80%;
+    background-color: #343943;
+}
+
+.secao3-container h1 {
+    position: absolute;
+    top: 260%;
+    left: 38.8%;
+    font-size: 40px;
+    color: #FFF;
+}
+
+.h4-secao3 {
+    position: absolute;
+    font-size: 17px;
+    top: 270%;
+    left: 32%;
+    color: #84858d;
+}
+
+.sp1-h4 {
+    position: relative;
+    font-size: 17px;
+    left: -3%;
+}
+
+.sp2-h4 {
+    position: relative;
+    font-size: 17px;
+    left: 35%;
+}
+
+.oferta-container {
+    position: absolute;
+    background-color: #2c3039;
+    height: 490px;
+    width: 346px;
+    top: 295%;
+    left: 37.1%;
+}
+
+.oferta-container h3 {
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    font-size: 40px;
+}
+
+.cifrao {
+    color: #8994a6;
+}
+
+.ph3 {
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    font-size: 20px;
+    color: #838c9e;
+}
+
+.bold {
+    position: absolute;
+    top: 18%;
+    left: 20px;
+    font-weight: bold;
+}
+
+.linha-oferta1 {
+    position: relative;
+    top: 14%;
+    left: 20px;
+    height: 1.5px;
+    width: 90%;
+    background-color: #343943;
+}
+
+.linha-oferta2 {
+    position: relative;
+    top: 25%;
+    left: 20px;
+    height: 1.5px;
+    width: 90%;
+    background-color: #343943;
+}
+
+.linha-oferta3 {
+    position: relative;
+    top: 35%;
+    left: 20px;
+    height: 1.5px;
+    width: 90%;
+    background-color: #343943;
+}
+
+.linha-oferta4 {
+    position: relative;
+    top: 55%;
+    left: 20px;
+    height: 1.5px;
+    width: 90%;
+    background-color: #343943;
+}
+
+.linha-oferta5 {
+    position: relative;
+    top: 65%;
+    left: 20px;
+    height: 1.5px;
+    width: 90%;
+    background-color: #343943;
+}
+
+.linha-oferta6 {
+    position: relative;
+    top: 45%;
+    left: 20px;
+    height: 1.5px;
+    width: 90%;
+    background-color: #343943;
+}
+
+.icon:nth-last-of-type(1) {
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    top: 38%;
+    left: 20px;
+    color: #02cbb1;
+}
+
+.icon:nth-last-of-type(2) {
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    top: 48%;
+    left: 20px;
+    color: #02cbb1;
+}
+
+.icon:nth-last-of-type(3) {
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    top: 58%;
+    left: 20px;
+    color: #02cbb1;
+}
+
+.icon:nth-last-of-type(4) {
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    top: 28%;
+    left: 20px;
+    color: #02cbb1;
+}
+
+.p-oferta:nth-last-of-type(1) {
+    position: absolute; 
+    top: 29%;
+    left: 50px;
+    color: #7f889a;
+}
+
+.p-oferta:nth-last-of-type(2) {
+    position: absolute;
+    top: 39%;
+    left: 50px;
+    color: #7f889a;
+}
+
+.p-oferta:nth-last-of-type(3) {
+    position: absolute;
+    top: 49%;
+    left: 50px;
+    color: #7f889a;
+}
+
+.p-oferta:nth-last-of-type(4) {
+    position: absolute;
+    top: 59%;
+    left: 50px;
+    color: #7f889a;
+}
+
+.botao-oferta {
+    position: absolute;
+    color: #FFF;
+    top: 73%;
+    left: 25px;
+    border: none;
+    border-radius: 2px;
+    height: 50px;
+    width: 300px;
+    background-color: #0b83f3;
+}
+
+.botao-oferta:hover {
+    background-color: #242424;
+    border: solid #FFF 2px;
+    cursor: pointer;
+}
+
+/* Seção 4 */
+
+.fundo-2-secao4 {
+    position: absolute;
+    top: 386%;
+    height: 65%;
+    width: 100%;
+}
+
+.fundo-4 {
+    position: absolute;
+    top: 385%;
+    left: 7%;
+    height: 180px;
+    width: 85%;
+}
+
+.secao4-container h1 {
+    position: absolute;
+    top: 397%;
+    left: 10%;
+}
+
+.botao-5 {
+    position: absolute;
+    color: #FFF;
+    top: 397%;
+    left: 75%;
+    border: none;
+    border-radius: 2px;
+    height: 50px;
+    width: 190px;
+    background-color: #0b83f3;
+}
+
+.botao-5:hover {
+    background-color: #242424;
+    border: solid #FFF 2px;
+    cursor: pointer;
+}
+
+/* Footer */
+
+.logo-footer {
+    position: absolute;
+    top: 426%;
+    left: 7%;
+}
+
+.credits {
+    position: absolute;
+    top: 435%;
+    left: 7%;
+    color: #7f889a;
+}
+
+.i1 {
+    position: absolute;
+    top: 427%;
+    right: 20%;
+    height: 25px;
+    width: 25px;
+    color: #0270d7;
+    cursor: pointer;
+}
+
+.i2 {
+    position: absolute;
+    top: 427%;
+    right: 15%;
+    height: 25px;
+    width: 25px;
+    color: #0270d7;
+    cursor: pointer;
+}
+
+.i3 {
+    position: absolute;
+    top: 427%;
+    right: 10%;
+    height: 25px;
+    width: 25px;
+    color: #0270d7;
+    cursor: pointer;
+}
+
+.links-footer {
+    position: absolute;
+    top: 435%;
+    right: 7.7%;
+    color: #7f889a;
+    text-decoration: none;
+    word-spacing: 15px;
+}
+
+.a-sep {
+    word-spacing: 2px;
+}
+
+.links-footer:hover {
+    text-decoration: underline;
+}
+
+/* Fim S2 */
